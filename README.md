@@ -1,5 +1,6 @@
-Responsive and agile vaccination strategies against COVID-19 in India
-Sandip Mandal; Nimalan Arinaminpathy; Balram Bhargava; Samiran Panda
+Responsive and agile vaccination strategies against COVID-19 in India.
+
+Authors: Sandip Mandal; Nimalan Arinaminpathy; Balram Bhargava; Samiran Panda
  
 This repository contains codes and data used to simulate and analyze COVID-19 vaccination strategies in India.
 1.	Impact of rapidly responsive vaccination strategies 
@@ -76,7 +77,7 @@ Figure S2 A: Illustrate deaths averted vs threshold TPR, for a disease-preventin
 Figure S2 B: Similar as Figure S2 A, but for an infection-preventing vaccine. 
 
 
-TableS2.m
+TableS3.m
 For each of the scenario choose appropriate data set and find the value of percent reduction of cumulative cases (here named as z or z1) or deaths (defined as x or x1). First column of each of these vector is corresponding to threshold TPR = 0.5%.  
 
 
